@@ -1,4 +1,4 @@
-// prints the lines of a file that appear more than once.
+// prints the lines of one or more files that appear more than once.
 package main
 
 import (
