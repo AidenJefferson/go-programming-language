@@ -1,4 +1,4 @@
-// Package tempconv performs Celsius and Fahrenheit conversions.
+// This program will convert temperatures given as arguments
 package main
 
 // This program uses the package tempconv
