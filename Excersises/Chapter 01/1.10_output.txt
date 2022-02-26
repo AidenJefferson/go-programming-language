@@ -1,0 +1,6 @@
+Time:	Bytes:	URL:
+0.53s	  69353	http://apple.com
+1.38s	 228083	http://github.com/AidenJefferson
+1.44s	 678668	http://youtube.com
+
+1.444035s total elapsed

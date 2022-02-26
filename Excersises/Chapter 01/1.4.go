@@ -1,4 +1,4 @@
-// prints the lines of one or more files that appear more than once.
+// This program prints the lines that appear more than once in a file given or in data input from os.Stdin.
 package main
 
 import (
